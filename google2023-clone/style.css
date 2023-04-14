@@ -1,0 +1,88 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+
+.profil {
+    height: 34px;
+    border-radius: 50%;
+    color: #fff;
+    bottom: 7px;
+    margin-right: 10px;
+}
+
+.grid {
+    height: 16px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.navbar a {
+    color: rgb(83, 83, 83);
+    text-decoration: none;
+}
+
+.navbar {
+    text-align: right;
+    margin-top: 1rem;
+}
+
+.navbar .textt {
+    float: left;
+    margin-left: 81rem;
+    font-size: 15px;
+    margin-top: 4px;
+}
+
+.voice{
+    margin-top: 13px;
+    margin-left: 31rem;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+.bar {
+    margin: 0 auto;
+    width: 575px;
+    border-radius: 30px;
+    border: 1px solid #dcdcdc;
+    display: flex;
+}
+
+.search{
+    margin-left: 10px;
+    height: 22px;
+    width: 5%;
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+
+.footer {
+    height: 100px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    color: black;
+    text-align: left;
+    
+  }
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+
+.button{
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    padding: 10px 24px;
+    border-color: white;
+}
+.buton{
+    margin-left: 36rem;
+    margin-top: 1rem;
+}
