@@ -1,1 +1,1 @@
-![](/img/readme.png)
+![](img/readme.png)
