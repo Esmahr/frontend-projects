@@ -1,1 +1,1 @@
-![alt text](/img/readme.png)
+![](img/readme.png)
