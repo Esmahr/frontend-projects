@@ -1,0 +1,70 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article {
+    padding-top: 2px;
+    text-align: center;
+    background-color: whitesmoke;
+    margin-bottom: 2px;
+    width: 90%;
+    margin-left: 5rem;
+}
+
+.footer {
+    width: 90%;
+    margin-left: 5rem;
+    margin-top: 5px;
+}
+
+.search {
+    width: 22%;
+}
+
+.button {
+    width: 8%;
+    font-size: small;
+}
+
+.card1 {
+    padding-top: 6px;
+    width: 37%;
+    height: 75px;
+    background-color: #7EE5DA;
+    float: left;
+    text-align: center;
+}
+
+.card2 {
+    font-size: small;
+    padding-top: 6px;
+    width: 21%;
+    height: 75px;
+    background-color: #70CCC2;
+    float: left;
+    margin-left: 7px;
+    margin-right: 2px;
+    text-align: center;
+}
+
+.card3 {
+    font-size: small;
+    padding-top: 6px;
+    width: 41%;
+    height: 75px;
+    background-color: #62B3AA;
+    float: right;
+    text-align: center;
+}
+
+.footer a {
+    color: blue;
+}
+
+.copy {
+    text-align: center;
+    font-size: small;
+    padding-top: 6rem;
+}
