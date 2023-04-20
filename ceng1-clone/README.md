@@ -1,1 +1,0 @@
-yarım proje tamamlanacak
